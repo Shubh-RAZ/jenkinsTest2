@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Test Jenkins Build Triiger 2!" );
+        System.out.println( "Test Jenkins Build Triiger 3!" );
     }
 }
